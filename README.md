@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Tetris React
+
+Mostly completed game still a WIP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
