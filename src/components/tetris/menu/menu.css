@@ -1,0 +1,13 @@
+button {
+    @apply font-bold py-1 px-4;
+    @apply text-white uppercase;
+    @apply border-black border-4 rounded-2xl;
+    @apply bg-white;
+    box-shadow:0 0 0 0px #3a3a3a, 0 0 0 1px #4b4b4b;
+}
+.btn-blue {
+    @apply bg-blue-500 text-white;
+}
+.btn-blue:hover {
+    @apply bg-blue-700;
+}
